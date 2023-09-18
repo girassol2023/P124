@@ -1,0 +1,16 @@
+
+body {
+    background-color: rgb(247, 199, 199);
+    border:5px solid white;
+}
+
+.copyRightFooter {
+    position: fixed;
+     color: white;
+     bottom: 0;
+     width: 100%;
+       background-color: gray;
+     line-height: 3;
+     text-align: center;
+   }
+
